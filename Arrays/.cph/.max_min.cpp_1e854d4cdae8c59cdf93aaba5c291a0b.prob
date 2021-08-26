@@ -1,0 +1,1 @@
+{"name":"Local: max_min","url":"f:\\Aryan2021\\cpTarget2021\\Arrays\\max_min.cpp","tests":[{"id":1627156660256,"input":"5\n1\n2\n3\n4\n5","output":"5 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Aryan2021\\cpTarget2021\\Arrays\\max_min.cpp","group":"local","local":true}

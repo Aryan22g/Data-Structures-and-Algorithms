@@ -1,0 +1,1 @@
+{"name":"Local: spiralordermatrixtraversal","url":"f:\\Aryan2021\\cpTarget2021\\2darray\\spiralordermatrixtraversal.cpp","tests":[{"id":1627739634061,"input":"4 3\n1 2 3 \n4 5 6\n7 8 9\n10 11 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Aryan2021\\cpTarget2021\\2darray\\spiralordermatrixtraversal.cpp","group":"local","local":true}

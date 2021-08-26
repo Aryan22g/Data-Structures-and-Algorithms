@@ -1,0 +1,1 @@
+{"name":"Local: matrixTranspose","url":"f:\\Aryan2021\\cpTarget2021\\2darray\\matrixTranspose.cpp","tests":[{"id":1628574548886,"input":"3 3\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Aryan2021\\cpTarget2021\\2darray\\matrixTranspose.cpp","group":"local","local":true}

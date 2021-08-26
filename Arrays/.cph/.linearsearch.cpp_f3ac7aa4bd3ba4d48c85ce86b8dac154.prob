@@ -1,0 +1,1 @@
+{"name":"Local: linearsearch","url":"f:\\Aryan2021\\cpTarget2021\\Arrays\\linearsearch.cpp","tests":[{"id":1627157068828,"input":"5\n1\n2\n3\n4\n5\n1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Aryan2021\\cpTarget2021\\Arrays\\linearsearch.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: checkSortedArray","url":"f:\\Aryan2021\\cpTarget2021\\recursion\\checkSortedArray.cpp","tests":[{"id":1629199888633,"input":"5\n1\n2\n7\n4\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Aryan2021\\cpTarget2021\\recursion\\checkSortedArray.cpp","group":"local","local":true}
